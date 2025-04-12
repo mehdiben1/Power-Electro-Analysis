@@ -39,6 +39,8 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 - 2020 had a **huge spike in sales**, this year was the best for the company as it generated total sales of **$10M**. This result  was driven by a change in customer behavior, as many consumers shifted their shopping habits during the pandemic, leading to a significant increase in online purchases.
 - After this strong performance in 2020, there’s been a pretty steady decline across late 2020 and 2021, but from 2021 to 2022, sales have significantly declined throughout the entire year. Key performance indicators have all shown year-over-year decreases: **order volume by 39.9%**, **revenue by 45.7%**, and **average order value (AOV) by 9.7%**. This drop can be broadly attributed to a return to pre-pandemic normalcy.
 
+Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here.]
+
 ![Capture d’écran_12-4-2025_131525_](https://github.com/user-attachments/assets/6bf1bac2-032a-4c0d-8f14-78f0bb8da334)
 
 
