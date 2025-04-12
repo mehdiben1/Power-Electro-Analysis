@@ -8,6 +8,14 @@ The goal of this analysis is to transform raw data into actionable insights that
 An interactive Tableau dashboard used to report and explore churn rate across key dimensions can be found [Here]()
 
 
+<details open>
+  <summary>Table of Contents</summary>
+  
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+
+</details>
+  
 # Data Structure:
 The companies main database structure as seen below consists of **5 tables**: **Orders**, **Order_Status**, **Customers**, **Geographics** and **Dim_Date** with a total row count of **108 125 records**. A description of each table is as follows:
 - **Orders Table:** This table contains the core transactional data for all orders placed on the Power Electro platform. It serves as the fact table in the database schema.
