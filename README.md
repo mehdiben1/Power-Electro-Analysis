@@ -10,7 +10,8 @@ An interactive Tableau dashboard used to report and explore churn rate across ke
 
 <details open>
   <summary>Table of Contents</summary>
-  
+
+- [Data Structure](#data-structure)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
 
