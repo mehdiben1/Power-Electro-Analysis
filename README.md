@@ -1,4 +1,16 @@
 # Power-Electro-Analysis
+
+<details open>
+  <summary>Table of Contents:</summary>
+  
+- [Project Background](#project-background)
+- [Data Structure](#data-structure)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+
+</details>
+
+
 # Project Background:
 
 **Power Electro** is a global e-commerce company **Operating since 2015**, specializing in selling popular electronics from leading brands like Apple, Samsung, and ThinkPad. Recently, Power Electro has been collecting significant amounts of data on a variety of key elements, including **orders**, **customer information**, **products**, and **geographic data**. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights. As a data analyst, my role is to analyze this data in order to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams.
@@ -7,15 +19,6 @@ The goal of this analysis is to transform raw data into actionable insights that
 
 An interactive Tableau dashboard used to report and explore churn rate across key dimensions can be found [Here]()
 
-
-<details open>
-  <summary>Table of Contents</summary>
-
-- [Data Structure](#data-structure)
-- [Executive Summary](#executive-summary)
-- [Insights Deep Dive](#insights-deep-dive)
-
-</details>
   
 # Data Structure:
 The companies main database structure as seen below consists of **5 tables**: **Orders**, **Order_Status**, **Customers**, **Geographics** and **Dim_Date** with a total row count of **108 125 records**. A description of each table is as follows:
