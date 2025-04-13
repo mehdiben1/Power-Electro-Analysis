@@ -28,8 +28,7 @@ The companies main database structure as seen below consists of **5 tables**: **
 - **Customers Table:** This table contains information about Power Electro's customers.
 - **Date Table:** This table provides a structured representation of dates, enabling efficient filtering and grouping of data by various time periods.
 
-  
-  ![star_schema power electro](https://github.com/user-attachments/assets/343f76d4-cdd1-4a1c-8e09-00efac18c736)
+![star_schema power electro](https://github.com/user-attachments/assets/343f76d4-cdd1-4a1c-8e09-00efac18c736)
 
 # Executive Summary
 
@@ -41,7 +40,7 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 
 Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here.]
 
-![Capture d’écran_12-4-2025_131525_](https://github.com/user-attachments/assets/6bf1bac2-032a-4c0d-8f14-78f0bb8da334)
+![image](https://github.com/user-attachments/assets/d6f9d745-c848-42e9-8dfd-ea34c1074474)
 
 
 # Insights Deep Dive
