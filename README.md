@@ -13,7 +13,7 @@
 
 # Project Background:
 
-**Power Electro** is a global e-commerce company **Operating since 2015**, specializing in selling popular electronics from leading brands like Apple, Samsung, and ThinkPad. Recently, Power Electro has been collecting significant amounts of data on a variety of key elements, including **orders**, **customer information**, **products**, and **geographic data**. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights. As a data analyst, my role is to analyze this data in order to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams.
+**Power Electro** is a global e-commerce company **Operating since 2018**, specializing in selling popular electronics from leading brands like Apple, Samsung, and ThinkPad. Recently, Power Electro has been collecting significant amounts of data on a variety of key elements, including **orders**, **customer information**, **products**, and **geographic data**. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights. As a data analyst, my role is to analyze this data in order to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams.
 
 The goal of this analysis is to transform raw data into actionable insights that can drive data-driven decision-making across the organization, which will ultimately improve Power Electro's commercial success.
 
