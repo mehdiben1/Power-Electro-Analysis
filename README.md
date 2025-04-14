@@ -49,3 +49,5 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 - **Entire Period (2019–2022):** From 2019 to 2022, Power Electro generated an average of $7M in annual sales, with around 27,000 orders per year.
 - **COVID-19 Period (2019–2020):** Between 2019 and 2020, the company’s revenue continued to increase, reaching its peak in December 2020 at $1.25M.
 - **After COVID-19 (Post-December 2020):** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (–55%), when monthly sales fell to $178K.
+![image](https://github.com/user-attachments/assets/2bace09e-d11a-4c3d-a139-ad9a3f899ffc)
+
