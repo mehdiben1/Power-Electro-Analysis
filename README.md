@@ -43,8 +43,7 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 
 
 # Insights Deep Dive
-## 1. Trend & Seasonality:
-### a- Sales Trends:
+## 1. Sales Trends:
 
 #### Revenue:
 
@@ -68,3 +67,8 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 - Notably,The AOV reached its highest point at **$321** per order in **October 2020**. By contrast, it fell to a low of **$217** per order by **October 2022**. This significant drop suggests that although customers were spending more per order at the peak, they gradually shifted to lower spend levels over time.
   
 ![image](https://github.com/user-attachments/assets/7a2c28ae-b070-415e-b566-0f90a62b696d)
+
+## 2. Product Performance: 
+
+
+
