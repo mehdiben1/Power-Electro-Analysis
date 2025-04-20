@@ -69,6 +69,9 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 ![image](https://github.com/user-attachments/assets/7a2c28ae-b070-415e-b566-0f90a62b696d)
 
 ## 2. Product Performance: 
+- 
+
+![image](https://github.com/user-attachments/assets/14895e65-f3d8-4e99-95ff-9c8f35afc736)
 
 
 
