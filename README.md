@@ -69,7 +69,10 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 ![image](https://github.com/user-attachments/assets/7a2c28ae-b070-415e-b566-0f90a62b696d)
 
 ## 2. Product Performance: 
-- 
+- Three categories (Gaming Monitors, Headphones, and Chargers) account for 86.7% of all orders and generate $27 M, or 96% of total revenue.
+- The Headphones category continues to grow as a share of orders—now at **48%** in 2022, up from **43%** in 2020. However, headphones still account for less than **28%** of total revenue.
+- The **27 inch 4K Gaming Monitor ($9.9 M)**, **AirPods ($7.7 M)**, and **MacBook Air ($6.3 M)** dominate the SKU ranking, driving the bulk of revenue.
+- The company is heavily reliant on Apple products, with the brand accounting for **51%** of total revenue. Apple's iPhone has yet to make an impact though, registering less than **1%** total sales.
 
 ![image](https://github.com/user-attachments/assets/14895e65-f3d8-4e99-95ff-9c8f35afc736)
 
