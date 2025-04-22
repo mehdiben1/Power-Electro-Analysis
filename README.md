@@ -7,6 +7,13 @@
 - [Data Structure](#data-structure)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
+    - [Sales Trends](#Sales-Trends)
+    - [Product Performance](#Product-Performance)
+    - [Loyalty Program](#Loyalty-Program)
+    - [Regional Comparisons](#Regional-Comparisons)
+    - [Purchase platforms & Marketing Channel](#Purchase-platforms-&-Marketing-Channel)
+      
+- [Recommendations:](#Recommendations)
 
 </details>
 
