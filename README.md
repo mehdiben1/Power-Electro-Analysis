@@ -76,5 +76,16 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 
 ![image](https://github.com/user-attachments/assets/14895e65-f3d8-4e99-95ff-9c8f35afc736)
 
+## 3. Loyalty Program:
+
+- The loyalty program has grown rapidly since its launch in 2019. Membership peaked in 2021 at **16,977 loyal customers**, representing **57% of the total customer base**, up from just **12% (1,622 members)** in 2019.
+- Loyalty‑program revenue jumped from just **$4.3K** in 2019 to a peak of **$5.1M** in 2021. In both 2021 and 2022, loyalty revenue (**$5.1M** and **$2.9M**, respectively) exceeded non‑loyalty revenue (**$4.4M** and **$2.3M**), highlighting the program’s growing pull and stickiness.
+- **Over the 2019–2022** period, loyalty members contributed **$11.5M nearly 40% of the **$28.1M** total revenue—underscoring that, while non‑loyalty revenue peaked in 2020 then declined, the loyalty program has become a substantial and stable driver of overall sales.
+
+![image](https://github.com/user-attachments/assets/5602f712-9b62-491a-b77a-e38727ca9262)
+
+
+- 
+
 
 
