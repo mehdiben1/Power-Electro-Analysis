@@ -84,8 +84,20 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 
 ![image](https://github.com/user-attachments/assets/5602f712-9b62-491a-b77a-e38727ca9262)
 
+-  Early on (mid‑2019 through 2020), non‑loyal customers spent significantly more per order peaking at **$338 vs. $253** for loyals. From mid‑2021 onward, loyalty members not only closed the gap but consistently outspent non‑loyals by up to 20%, ending 2022 at parity ($263 vs. $215).
+- Loyalty orders climbed from just ~50 in January 2019 to over 1,500 by early 2021, nearly matching non‑loyal volumes. After peaking, both cohorts saw a steep decline in 2022 (down to 427 loyal and 745 non‑loyal orders by year‑end), mirroring the overall market slowdown.
 
-- 
+![image](https://github.com/user-attachments/assets/1db7b1dc-db2c-4afb-9c68-fb1c6027dba7)
+
+
+
+## 4. Regional Comparisons:
+
+- Three regions (NA, EMEA, and APAC) account for **93%** of all orders and generate **$26.4M**, or **94%** of total revenue.
+- While North America shows the highest overall revenue based on the size of the bubbles on the map, the historical revenue chart reveals a sharp decline in NA revenue starting around early 2021 and continuing through 2022. This suggests a major challenge in the North American market that requires investigation.
+- The APAC region shows a smaller presence on the revenue map compared to North America and EMEA. However, the historical revenue chart indicates a relatively steady, albeit lower, revenue stream in APAC. This suggests that APAC has growth potential, but might need strategic investment to scale and catch up with other regions.
+
+![image](https://github.com/user-attachments/assets/eca276b3-1a73-4ade-9bc9-d9656d875264)
 
 
 
