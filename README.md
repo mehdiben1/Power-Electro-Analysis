@@ -99,5 +99,13 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 
 ![image](https://github.com/user-attachments/assets/eca276b3-1a73-4ade-9bc9-d9656d875264)
 
+## 5. Purchase platforms & Marketing Channel:
+
+- **Website dominates as the primary purchase platform**: The website accounts for a vast majority of orders **(90K)** compared to the mobile app **(19K)**. This indicates that customers primarily prefer using the website for making purchases, which warrants an investigation to understand why the mobile app adoption is so low.
+- **Direct traffic is the most effective marketing channel, while social media and unknown channels require optimization**: A significant portion of orders originate from direct traffic **(84K)**, suggesting strong brand recognition and customer loyalty. However, social media and the "unknown" marketing channel contribute very few orders **(1K each)**. This indicates that the social media marketing efforts need optimization, and there’s a need to identify the sources driving the "unknown" channel for better resource allocation.
+
+![image](https://github.com/user-attachments/assets/39f3f3d9-c25e-4ebf-ae4b-5898dd1e9398)
+
+
 
 
