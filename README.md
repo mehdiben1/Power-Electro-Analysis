@@ -117,10 +117,23 @@ From **2019 to 2020**, Power Electro reached total sales of **$28M**, with **108
 # Recommendations:
 Based on the insights and findings above, we would recommend the following:
 
--
--
--
--
+- **Make the Loyalty Program More Exciting:**
+   - Add membership levels (Silver, Gold, Platinum) with better benefits such as early product releases or free accessories.
+   - Send each member special offers based on what they’ve bought before (for example, gaming bundles for gamers).
+
+- **Boost Sales in North America:**
+   - Identify customers who haven’t bought in a while and send them a “We Miss You” coupon or free fast shipping on their next order.
+   - Pair a popular product (like the 4K gaming monitor) with a free or discounted accessory to make the deal more attractive.
+
+- **Grow Sales in APAC with Local Deals:**
+   - Offer bundles and payment plans that match local budgets and link promotions to big regional holidays. Also, Work with influencers in each country to showcase products and drive more social media buzz.
+ 
+- **Improve Marketing Tracking and Spend:**
+   - Fix your link tracking so you know exactly which ads or posts bring in sales.
+   - Reallocate the marketing budget to focus on the most successful channels, such as paid social ads, and create simple 'how-to' videos to attract new customers.
+- **Make the Mobile App More User-Friendly & Popular:**
+   - Fix any tricky steps in the app (for example, sign-up or checkout) by watching how real users navigate.
+   - Give app users special perks—like extra discounts or bonus loyalty points only available on the app.
 
 
 
