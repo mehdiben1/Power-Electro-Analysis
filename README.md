@@ -24,7 +24,7 @@
 
 The goal of this analysis is to transform raw data into actionable insights that can drive data-driven decision-making across the organization, which will ultimately improve Power Electro's commercial success.
 
-An interactive Power Bi dashboard used to report and explore churn rate across key dimensions can be found [Here](https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard)
+An interactive Power Bi dashboard used to report and explore Revenue, AOV and Refund Rate across key dimensions can be found [Here](https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard)
 
   
 # Data Structure:
